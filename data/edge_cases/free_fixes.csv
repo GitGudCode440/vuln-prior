@@ -1,0 +1,6 @@
+id,name,severity,asset_importance,cost,risk_reduction
+F1,Disable unused service,5.0,3,0,10
+F2,Close unused firewall port,6.0,4,0,15
+F3,Rotate shared API key,7.0,4,5,20
+F4,Patch internal wiki,4.0,2,10,12
+F5,Free fix with no benefit,2.0,1,0,0

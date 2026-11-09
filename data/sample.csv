@@ -1,0 +1,23 @@
+id,name,severity,asset_importance,cost,risk_reduction
+V001,SQL injection in login form,9.8,5,40,44.1
+V002,Outdated OpenSSL on web server,7.5,5,25,31.9
+V003,Hardcoded credentials in config repo,8.8,4,15,28.2
+V004,Cross-site scripting in comments page,6.1,3,20,14.6
+V005,Unpatched VPN gateway firmware,9.1,5,55,40.9
+V006,Weak password policy on admin portal,7.2,4,10,23.0
+V007,Open S3 bucket with customer data,8.6,5,12,38.7
+V008,Missing MFA on email accounts,6.5,4,18,20.8
+V009,Outdated jQuery on marketing site,4.3,1,6,3.4
+V010,Directory listing enabled on file server,5.3,3,5,12.7
+V011,Unencrypted backups,7.0,4,30,22.4
+V012,SMB signing disabled on domain controller,6.8,5,14,27.2
+V013,Default credentials on printer,5.0,1,3,4.0
+V014,Missing HTTP security headers,3.7,2,4,5.2
+V015,Remote code execution in legacy CMS,9.8,3,45,26.5
+V016,Privilege escalation in Linux kernel,7.8,5,35,33.2
+V017,Exposed admin panel to internet,8.0,4,8,28.8
+V018,Weak TLS ciphers on API gateway,5.9,4,9,16.5
+V019,Unvalidated file upload in HR portal,8.1,3,22,21.9
+V020,Stale service accounts in Active Directory,6.0,4,16,19.2
+V021,Verbose error messages leak stack traces,4.0,2,5,5.6
+V022,Insecure deserialization in internal API,9.0,4,38,32.4

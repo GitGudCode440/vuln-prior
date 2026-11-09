@@ -1,0 +1,13 @@
+id,name,severity,asset_importance,cost,risk_reduction
+G1,Valid fix one,7.0,4,10,20
+G2,Negative cost,7.0,4,-5,20
+,Missing id,6.0,3,8,12
+G4,,6.0,3,8,12
+G5,Severity out of range,11.5,3,8,12
+G6,Importance out of range,6.0,9,8,12
+G7,Fractional cost,6.0,3,3.5,12
+G8,Non-numeric risk,6.0,3,8,lots
+G1,Duplicate of G1,7.0,4,10,20
+G10,Negative risk reduction,6.0,3,8,-4
+G11,Valid fix two,5.0,2,6,9
+G12,Cost given as 12.0 (accepted),5.0,2,12.0,15

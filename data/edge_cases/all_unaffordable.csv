@@ -1,0 +1,4 @@
+id,name,severity,asset_importance,cost,risk_reduction
+U1,Major platform migration,9.0,5,100,80
+U2,Network re-architecture,8.0,4,200,120
+U3,Full code rewrite,7.0,3,300,150

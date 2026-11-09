@@ -1,0 +1,4 @@
+id,name,severity,asset_importance,cost,risk_reduction
+A,Fix A (best ratio),8.0,4,10,60
+B,Fix B,8.0,4,20,100
+C,Fix C,8.0,4,30,120
